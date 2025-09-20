@@ -53,7 +53,7 @@ The following section gives the set of commands to be executed to download the i
  ```
   - __Screenshot__
 
-![iverilog](WEEK0/Associated_files/IVERILOG_CMD.jpg)
+![iverilog](https://github.com/HARIPRASATH-S-8030/SH_8030_RISC-V-SoC_Tapeout_Program_VSD/blob/11a0a316a528c4db27b15a1ea378e39af021f11d/WEEK0/Associated_files/IVERILOG_CMD.jpg)
 
 3. **gtkwave**
 The following section gives the set of commands to be executed to download the gtkwave file, also the snapshots for the downloaded file has also been attached for reference.
@@ -65,9 +65,9 @@ The following section gives the set of commands to be executed to download the g
  ```
  - __Screenshot__
 
-![gtk](WEEK0/Associated_files/GTK_WAVE_CMD.jpg)
+![gtk](https://github.com/HARIPRASATH-S-8030/SH_8030_RISC-V-SoC_Tapeout_Program_VSD/blob/11a0a316a528c4db27b15a1ea378e39af021f11d/WEEK0/Associated_files/GTK_WAVE_CMD.jpg)
 
-![gtk1](WEEK0/Associated_files/GTK_WAVE_SCREEN.jpg)
+![gtk1](https://github.com/HARIPRASATH-S-8030/SH_8030_RISC-V-SoC_Tapeout_Program_VSD/blob/11a0a316a528c4db27b15a1ea378e39af021f11d/WEEK0/Associated_files/GTK_WAVE_SCREEN.jpg)
  
 ## Summary
 Thus we have installed some of the tools that are required for VLSI - RISC-V Chip design process, making the environment ready.
