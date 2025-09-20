@@ -3,9 +3,13 @@
 A brief display of the preliminary works done for booting up the process of RISC-V tapeout programme by VSD - VLSI System Design along with IIT Gandhinagar.
 
 ## Tools to be installed
+
   1.Yosys
+  
   2.iverilog
+  
   3.gtkwave
+  
 ## Role of each Tools in this tapeout process
 
  - **Yosys** : Yosys is an open-source RTL synthesis tool widely used in modern chip design flows, especially for RISC-V and other open hardware projects. It converts high-level hardware descriptions written in Verilog into optimized __gate-level netlists__ that map to specific technology libraries. This synthesis step is crucial for bridging the gap between RTL code and physical implementation. Yosys integrates smoothly with open-source place-and-route tools like OpenROAD and supports formal verification workflows to ensure design correctness. Its compatibility with open process design kits (PDKs) such as SkyWater’s 130nm technology enables hobbyists, researchers, and companies to produce tapeout-ready layouts using fully open-source toolchains. Overall, Yosys plays a vital role in accelerating affordable and accessible chip tapeouts by providing a flexible, powerful synthesis solution.
@@ -37,7 +41,7 @@ A brief display of the preliminary works done for booting up the process of RISC
  ```
  - **Screenshot**
 
-![Yosys verification](WEEK0/Associated_files/YOSYS_CMD.jpg)
+![Yosys](WEEK0/Associated_files/YOSYS_CMD.jpg)
 
 2. **iverilog**
 The following section gives the set of commands to be executed to download the iverilog file, also the snapshots for the downloaded file has also been attached for reference.
@@ -49,7 +53,8 @@ The following section gives the set of commands to be executed to download the i
  ```
   - __Screenshot__
 
-![iverilog verification](
+![iverilog](WEEK0/Associated_files/IVERILOG_CMD.jpg)
+
 3. **gtkwave**
 The following section gives the set of commands to be executed to download the gtkwave file, also the snapshots for the downloaded file has also been attached for reference.
   - __Commands__
@@ -59,6 +64,10 @@ The following section gives the set of commands to be executed to download the g
 
  ```
  - __Screenshot__
+
+![gtk](WEEK0/Associated_files/GTK_WAVE_CMD.jpg)
+
+![gtk1](WEEK0/Associated_files/GTK_WAVE_SCREEN.jpg)
  
 ## Summary
 Thus we have installed some of the tools that are required for VLSI - RISC-V Chip design process, making the environment ready.
