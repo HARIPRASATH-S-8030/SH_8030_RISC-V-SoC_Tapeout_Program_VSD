@@ -36,7 +36,8 @@ A brief display of the preliminary works done for booting up the process of RISC
 
  ```
  - **Screenshot**
- ![]
+
+   ![Yosys verification](WEEK 0/YOSYS_CMD.jpg)
 
 2. **iverilog**
 The following section gives the set of commands to be executed to download the iverilog file, also the snapshots for the downloaded file has also been attached for reference.
