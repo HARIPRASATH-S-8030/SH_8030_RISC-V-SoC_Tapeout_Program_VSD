@@ -37,7 +37,7 @@ A brief display of the preliminary works done for booting up the process of RISC
  ```
  - **Screenshot**
 
-![Yosys verification](WEEK%200/YOSYS_CMD.jpg)
+![Yosys verification](WEEK0/Associated_files/YOSYS_CMD.jpg)
 
 2. **iverilog**
 The following section gives the set of commands to be executed to download the iverilog file, also the snapshots for the downloaded file has also been attached for reference.
@@ -49,6 +49,7 @@ The following section gives the set of commands to be executed to download the i
  ```
   - __Screenshot__
 
+![iverilog verification](
 3. **gtkwave**
 The following section gives the set of commands to be executed to download the gtkwave file, also the snapshots for the downloaded file has also been attached for reference.
   - __Commands__
