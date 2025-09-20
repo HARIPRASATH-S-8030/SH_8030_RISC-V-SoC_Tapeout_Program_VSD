@@ -41,7 +41,7 @@ A brief display of the preliminary works done for booting up the process of RISC
  ```
  - **Screenshot**
 
-![Yosys](WEEK0/Associated_files/YOSYS_CMD.jpg)
+![Yosys](https://github.com/HARIPRASATH-S-8030/SH_8030_RISC-V-SoC_Tapeout_Program_VSD/blob/146b3f4899bc67dbf976a1917d707425ac437b74/WEEK0/Associated_files/YOSYS_CMD.jpg)
 
 2. **iverilog**
 The following section gives the set of commands to be executed to download the iverilog file, also the snapshots for the downloaded file has also been attached for reference.
