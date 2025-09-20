@@ -3,14 +3,9 @@
 A brief display of the preliminary works done for booting up the process of RISC-V tapeout programme by VSD - VLSI System Design along with IIT Gandhinagar.
 
 ## Tools to be installed
-
   1.Yosys
-
   2.iverilog
-
   3.gtkwave
-
-
 ## Role of each Tools in this tapeout process
 
  - **Yosys** : Yosys is an open-source RTL synthesis tool widely used in modern chip design flows, especially for RISC-V and other open hardware projects. It converts high-level hardware descriptions written in Verilog into optimized __gate-level netlists__ that map to specific technology libraries. This synthesis step is crucial for bridging the gap between RTL code and physical implementation. Yosys integrates smoothly with open-source place-and-route tools like OpenROAD and supports formal verification workflows to ensure design correctness. Its compatibility with open process design kits (PDKs) such as SkyWater’s 130nm technology enables hobbyists, researchers, and companies to produce tapeout-ready layouts using fully open-source toolchains. Overall, Yosys plays a vital role in accelerating affordable and accessible chip tapeouts by providing a flexible, powerful synthesis solution.
